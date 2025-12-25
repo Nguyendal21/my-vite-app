@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống cắt gác tự động",
+  "description": "A comprehensive system for scheduling guard duties with history-based validation and personnel management.",
+  "requestFramePermissions": []
+}
